@@ -1,8 +1,6 @@
 Hi 👋 My name is Roni
 =====================
 
-sad
----
 
 I have been working with software development for more than 5 years. I've participated in the development of five native apps, six multiplatform apps (React native framework), and one GraphQL API with Node. I love doing automation when I find something repetitive and time-consuming.
 
