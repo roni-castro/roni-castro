@@ -26,7 +26,3 @@ I have been working with software development for more than 5 years. I've partic
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/roni-castro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ronicastro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/2632709/roni-castro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/roni-castro" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roni-castro&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
