@@ -2,7 +2,7 @@ Hi 👋 My name is Roni
 =====================
 
 
-I have been working with software development for more than 5 years. I've participated in the development of five native apps, six multiplatform apps (React native framework), and one GraphQL API with Node. I love doing automation when I find something repetitive and time-consuming.
+I have been working with software development for more than 6 years. I've participated in the development of native apps, multiplatform apps (React native framework), and GraphQL API with Node. I love doing automation when I find something repetitive and time-consuming.
 
 * 🌍  I'm based in Maringá, Paraná, Brazil
 * ✉️  You can contact me at roni.c.castro&#64;gmail&#46;com
